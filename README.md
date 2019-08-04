@@ -10,7 +10,7 @@ in this repository and wait for other users to review and test them.
 how to
 ======  
   
-1) ask the repo's owner to add your username as a contributor  
+1) ask the repo's owner to add your username as a contributor(you can also fork the repo)  
 after you've been approved, clone the repo  
 create an issue in the github repo with your name  
 
