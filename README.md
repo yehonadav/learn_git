@@ -13,7 +13,8 @@ how to
 1) ask the repo's owner to add your username as a contributor(you can also fork the repo)  
 after you've been approved, clone the repo  
 create an issue in the github repo with your name  
-
+![open_issue](https://github.com/yehonadav/learn_git/blob/master/images/open_issue.JPG?raw=true)  
+  
 2) create a local git branch with your username  
 create a directory with your username, create any 3 programs you like and make sure they run correctly  
 create a README.md file explaining your programs, what to install and how to run them  
