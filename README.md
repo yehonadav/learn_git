@@ -14,6 +14,8 @@ how to
 after you've been approved, clone the repo  
 create an issue in the github repo with your name  
 ![open_issue](https://github.com/yehonadav/learn_git/blob/master/images/open_issue.JPG?raw=true)  
+![open_issue2](https://github.com/yehonadav/learn_git/blob/master/images/open_issue2.JPG?raw=true)  
+![assign_and_comment](https://github.com/yehonadav/learn_git/blob/master/images/assign_and_comment.JPG?raw=true)  
   
 2) create a local git branch with your username  
 create a directory with your username, create any 3 programs you like and make sure they run correctly  
