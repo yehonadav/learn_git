@@ -1,40 +1,20 @@
-# learn_git
-introduction to working with git &amp; github, contributors will be able to create programs, make fixes, and commit messages
+# eyalle learning GIT
 
-goal
+Hangman-SelfPY
 ====  
   
-each contributor is assigned to create 3 programs  
-in this repository and wait for other users to review and test them.  
+This is a Python implementation of the game Hangman.
+Inside the Hangman's directory, you can read more on how to run the game.
+In order for the game to run, you will need to install its requirements (see its README to know how)
   
-how to
+Rock Paper Scissors
 ======  
+This is my implementation of the Rock Paper Scissors exercise.
+This code stores every hand's possible options in a dictionary.
+Every key in the dictionary has a key and the values are the key's winning and losing options.
+A user will pass a selected hand, while the other hand is selected randomly.
   
-1) ask the repo's owner to add your username as a contributor(you can also fork the repo)  
-after you've been approved, clone the repo  
-create an issue in the github repo with your name  
-![open_issue](https://github.com/yehonadav/learn_git/blob/master/images/open_issue.JPG?raw=true)  
-![open_issue2](https://github.com/yehonadav/learn_git/blob/master/images/open_issue2.JPG?raw=true)  
-![assign_and_comment](https://github.com/yehonadav/learn_git/blob/master/images/assign_and_comment.JPG?raw=true)  
-  
-2) create a local git branch with your username  
-create a directory with your username, create any 3 programs you like and make sure they run correctly  
-create a README.md file explaining your programs, what to install and how to run them  
-  
-3) commit your code changes  
-* make sure to include a clear commit message! including the issue your currently working on, in all your commits!!!  
-create an upstream branch with your username  
-push your commit to the upstream branch  
-  
-4) in your github issue, add a comment saying your branch is ready for review  
-find another open issue with the same type of comment, and assign yourself for that issue  
-  
-5) fetch and checkout to the issue's branch and set your correct upstream branch  
-test the issue's programs  
-if you encounter defects, make a hotfix local branch and fix them & commit, then merge it to the issu's branch  
-update the issue's branch and make sure there are no conflicts  
-update the master branch and merge the issue's commits into it  
-push commits to master branch  
-delete issue's local &amp; remote branches  
-  
-6) in the github issue, add a comment saying the review and test acceptance has been successful, and close the issue  
+lvl1
+======  
+This folder stores all the exercies I ansewred in the level 1 module of our lessons.
+=======
