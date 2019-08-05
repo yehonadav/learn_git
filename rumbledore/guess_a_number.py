@@ -17,6 +17,7 @@ while is_playing:
         if rnd_num == answer:
             print("You guessed right!")
             score += 1
+            break
 
         else:
             print("Incorrect!")
@@ -29,7 +30,8 @@ while is_playing:
             else:
                 print("guess higher")
 
-    answer = input("Wanna play again? (yes/no)\n")
+    print(f"your score is: {score}")
+    answer = input("Do you want to play again? (yes/no)\n")
     if answer == "yes":
         number_of_guesses = 3
         continue
