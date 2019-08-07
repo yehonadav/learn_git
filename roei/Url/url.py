@@ -1,8 +1,8 @@
 import requests
 
 while True:
-    url = input("please inter a valid url:")
-    filename = input("please enter an html name") + '.html'
+    url = input("please enter a valid url:")
+    filename = input("please enter an html file name:") + '.html'
 
     try:
         response = requests.get(url)
