@@ -38,3 +38,33 @@ push commits to master branch
 delete issue's local &amp; remote branches  
   
 6) in the github issue, add a comment saying the review and test acceptance has been successful, and close the issue  
+  
+7) re-open your issue  
+  
+8) comment and say you want to add another python program that uses the requests module to crawl html data  
+  
+9) go to some other re-opened issue, comment and assign yourself  
+  
+10) if you are the first to assign to that issue, describe the program your creating in detail, what functions you need, and create a remote+local branch with the issue's name  
+if your the 2nd assignee, comment on the functions you will develop, and create a local branch tracking the remote branch of the issue  
+  
+11) collaborate and create the program  
+  
+12) merge your code to the remote branch  
+
+13) if you are the last merger, merge the issue's branch to the master branch  
+  
+14) redo the steps 9-13  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
