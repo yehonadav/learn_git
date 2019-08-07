@@ -2,12 +2,12 @@ import random
 
 is_playing = True
 score = 0
-number_of_guesses = 3
+# number_of_guesses = 3
 min_num = 1
 max_num = 20
 
 while is_playing:
-
+    number_of_guesses = 3
     rnd_num = random.randint(min_num, max_num + 1)
     print("---------- Welcome to Rumblesore's guess game ----------")
 
@@ -32,9 +32,8 @@ while is_playing:
 
     print(f"your score is: {score}")
     answer = input("Do you want to play again? (yes/no)\n")
-    if answer == "yes":
-        number_of_guesses = 3
-        continue
-    else:
+    if answer == "no":
+        # number_of_guesses = 3
+        # continue
+    # else:
         is_playing = False
-
