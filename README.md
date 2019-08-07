@@ -40,7 +40,7 @@ delete issue's local &amp; remote branches
 6) in the github issue, add a comment saying the review and test acceptance has been successful, and close the issue  
   
 7) re-open your issue  
-  
+
 8) comment and say you want to add another python program that uses the requests module to crawl html data  
   
 9) go to some other re-opened issue, comment and assign yourself  
