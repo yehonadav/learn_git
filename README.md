@@ -1,4 +1,8 @@
-# learn_git
+# learn git
+
+[![open issues](https://img.shields.io/github/issues/yehonadav/learn_git)](https://github/issues-raw/yehonadav/learn_git)  
+![GitHub repo size](https://img.shields.io/github/repo-size/yehonadav/learn_git) 
+
 introduction to working with git &amp; github, contributors will be able to create programs, make fixes, and commit messages
 
 goal
